@@ -4,6 +4,6 @@ import GifExpertApp from './GifExpertapp';
 import './index.css';
 
 
-ReactDOM.render(<GifExpertApp />,document.getElementById('root'));
+ReactDOM.render(<GifExpertApp defaultCategories={['DBZ']} />,document.getElementById('root'));
 
 

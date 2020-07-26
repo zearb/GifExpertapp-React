@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en componente <GifGrid/> Se debe mostrar correctamente 1`] = `
+<div>
+  <h3
+    className="animate__animated animate__zoomIn"
+  >
+    DBZ
+  </h3>
+  <p
+    className="animate__animated animate__flash animate__infinite infinite animate__slow	2s"
+  >
+    Cargando...
+  </p>
+  <div
+    className="cont_cards"
+  />
+</div>
+`;
